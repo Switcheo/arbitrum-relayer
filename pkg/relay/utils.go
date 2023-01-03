@@ -35,7 +35,7 @@ import (
 	"github.com/ontio/ontology-crypto/ec"
 	"github.com/ontio/ontology-crypto/keypair"
 	"github.com/ontio/ontology-crypto/sm2"
-	"github.com/polynetwork/arb-relayer/pkg/log"
+	"github.com/polynetwork/arbitrum-relayer/pkg/log"
 	"github.com/polynetwork/poly/common"
 )
 

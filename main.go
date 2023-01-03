@@ -25,9 +25,9 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/polynetwork/arb-relayer/config"
-	"github.com/polynetwork/arb-relayer/pkg/log"
-	"github.com/polynetwork/arb-relayer/pkg/relay"
+	"github.com/polynetwork/arbitrum-relayer/config"
+	"github.com/polynetwork/arbitrum-relayer/pkg/log"
+	"github.com/polynetwork/arbitrum-relayer/pkg/relay"
 	sdk "github.com/polynetwork/poly-go-sdk"
 	"github.com/zhiqiangxu/util/signal"
 )

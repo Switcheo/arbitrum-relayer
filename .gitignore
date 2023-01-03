@@ -3,3 +3,4 @@ Log
 *.json
 keystore
 db
+.idea

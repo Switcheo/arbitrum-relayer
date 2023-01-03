@@ -1,4 +1,4 @@
-module github.com/polynetwork/arb-relayer
+module github.com/polynetwork/arbitrum-relayer
 
 go 1.15
 
