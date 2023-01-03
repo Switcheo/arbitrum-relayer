@@ -22,11 +22,11 @@ package main
 import (
 	"context"
 	"flag"
+	"github.com/polynetwork/arbitrum-relayer/log"
 	"os"
 	"syscall"
 
 	"github.com/polynetwork/arbitrum-relayer/config"
-	"github.com/polynetwork/arbitrum-relayer/pkg/log"
 	"github.com/polynetwork/arbitrum-relayer/pkg/relay"
 	sdk "github.com/polynetwork/poly-go-sdk"
 	"github.com/zhiqiangxu/util/signal"
